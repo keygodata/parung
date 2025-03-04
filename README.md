@@ -5,7 +5,7 @@
 apt install git curl -y
 ```
 ```
-git clone https://github.com/alijayanet/virtualparameter
+git clone https://github.com/keygodata/parung
 ```
 ```
 sudo mongorestore --db=genieacs --drop virtualparameter
