@@ -8,7 +8,7 @@ apt install git curl -y
 git clone https://github.com/keygodata/parung
 ```
 ```
-sudo mongorestore --db=genieacs --drop virtualparameter
+sudo mongorestore --db=genieacs --drop parung
 ```
 
 ============== info 081947215703 ==================
